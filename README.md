@@ -2,8 +2,8 @@
 # JavaScript Projects Beginners
 40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 
-<h2 dir="auto"> 🎯 Projetos </h2>
-  <li> #1 - Criar um trocador de cores. </li>
+<h2 dir="auto"> 📝 Lista de Projetos </h2>
+  ☑️ #1 - Criar um trocador de cores. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/TrocadorCores"> Acessar➡️ </a> <br>
 
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
