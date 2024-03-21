@@ -16,6 +16,12 @@ JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
  <li> VS Code. </li>
  <li> JavaScript. </li> 
 
+ <h2 dir="auto"> 📑 Referências </h2>
+  <p dir="auto">
+  A ideias para os projetos vieram deste artigo:
+  ➡️https://lnkd.in/d8aKbMvW
+  </p>
+
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
  Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
