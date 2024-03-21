@@ -1,7 +1,5 @@
-# 
 
-
-<h4>  JavaScript Projects Beginners </h4>
+<h1>  JavaScript Projects Beginners </h1>
 <p>40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS</p>
 
 <h2 dir="auto"> 🎯 Projetos </h2>
