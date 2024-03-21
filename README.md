@@ -18,8 +18,7 @@ JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 
  <h2 dir="auto"> 📑 Referências </h2>
   <p dir="auto">
-  A ideias para os projetos vieram deste artigo:
-  ➡️https://lnkd.in/d8aKbMvW
+  A ideias para os projetos vieram deste artigo:<a href="https://lnkd.in/d8aKbMvW"> Acessar➡️ </a> <br>
   </p>
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
