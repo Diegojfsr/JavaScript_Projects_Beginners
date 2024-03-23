@@ -1,32 +1,8 @@
 
-const btn = document.getElementById("btn");
-const color = document.querySelector(".color");
-
-const numbers = "0123456789";
-const alphabets = "abcdef";
-
-function getRandomNumber() {
-  return numbers[Math.floor(Math.random() * numbers.length)]
+function mudarCor() { 
+    let red = Math.floor(Math.random() * 256); 
+    let green = Math.floor(Math.random() * 256); 
+    let blue = Math.floor(Math.random() * 256); 
+    let color = "rgb(" + red + "," + green + "," + blue + ")"; 
+    document.getElementById("backGroundColor").style.backgroundColor = color; 
 }
-
-function getRandomAlphabet() {
-  return alphabets[Math.floor(Math.random() * alphabets.length)]
-}
-
-function getRandom() {
-  let arr = [];
-  arr.push(getRandomNumber());
-  arr.push(getRandomAlphabet());
-  return arr[Math.floor(Math.random() * arr.length)]
-}
-
-btn.addEventListener("click",  () => {
-   let hex = "#"
-   for(let i=0; i<6; i++) {
-     hex += getRandom()
-   }
-  document.body.style.backgroundColor = hex;
-  color.textContent = hex;
-});
-
-
