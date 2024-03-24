@@ -3,10 +3,13 @@
 <!--
 ![](https://github.com/Diegojfsr/JavaScript_Projects_Beginners/blob/main/Imagens/Capa_Projetos_JavaScript.jpg)
 -->
-# Como criar um trocador de cores
+
 <!--
 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 -->
+
+# Como criar um trocador de cores
+
 <h2 dir="auto"> 📝 Etapas </h2>
   ☑️ Passo 1: Marcação HTML <br>
   Neste exemplo, usaremos um elemento div com um id backGroundColor. Também criaremos um botão que acionará a mudança de cor. A marcação HTML ficará assim:
