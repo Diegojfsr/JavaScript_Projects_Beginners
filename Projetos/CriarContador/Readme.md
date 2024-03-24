@@ -12,12 +12,12 @@ JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 <!--### [#1 Etapa:](#HTML)-->
 ### [Marcação HTML](https:)<br>
 Neste exemplo, usaremos um elemento div com um id header, para o title. Um elemento div main com os ids do sbotoes e do contador.<br>
-[Visualizar Código](https:)
+[Visualizar Código](https://github.com/Diegojfsr/JavaScript_Projects_Beginners/blob/main/Projetos/CriarContador/index.html)
 
 <!--### [#2 Etapa:](#CSS)-->
 ### [Estilo CSS](https:)<br>
 Neste exemplo, utilizaremos estilização para a div header, contador e para os botões. Além do codigo do media query.<br>
-[Visualizar Código](https:)
+[Visualizar Código](https://github.com/Diegojfsr/JavaScript_Projects_Beginners/blob/main/Projetos/CriarContador/style.css)
 
 <!--### [#3 Etapa:](#JavaScript)-->
 ### [Funções JavaScript](https:)<br>
@@ -26,7 +26,7 @@ Aqui definiremos as funções do
 E as funções dos
 [Botões](#botõesbotoes): onde vamos controlar o nosso contador.
 <br>
-[Visualizar Código](https:)
+[Visualizar Código](https://github.com/Diegojfsr/JavaScript_Projects_Beginners/blob/main/Projetos/CriarContador/script.js)
 
 1. [Display](#display)
     - Selecionamos o elemento do display com: ``document.getElementById();``
