@@ -3,7 +3,7 @@
 ## Esse é o meu repositório de JavaScript Projects Beginners
 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 
-![](https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Imagens/Capa_Curso_Photoshop.jpg)
+![](https://github.com/Diegojfsr/JavaScript_Projects_Beginners/blob/main/Imagens/Capa_Projetos_JavaScript.jpg)
 
 
 <h2 dir="auto"> 📝 Lista de Projetos </h2>
