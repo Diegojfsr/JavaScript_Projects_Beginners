@@ -1,6 +1,10 @@
 
-# JavaScript Projects Beginners
+# Sejam bem-vindos!!!
+## Esse é o meu repositório de JavaScript Projects Beginners
 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
+
+![](https://github.com/Diegojfsr/Curso_Photoshop_Susse/blob/main/Imagens/Capa_Curso_Photoshop.jpg)
+
 
 <h2 dir="auto"> 📝 Lista de Projetos </h2>
   ☑️ #1 - Criar um trocador de cores. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/TrocadorCores"> Acessar➡️ </a> <br>
