@@ -1,13 +1,13 @@
 
-# Sejam bem-vindos!!!
-## Esse é o meu repositório de JavaScript Projects Beginners
-JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
+
 
 ![](https://github.com/Diegojfsr/JavaScript_Projects_Beginners/blob/main/Imagens/Capa_Projetos_JavaScript.jpg)
 
+# Esse é o meu repositório de JavaScript Projects Beginners
+JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 
 <h2 dir="auto"> 📝 Lista de Projetos </h2>
-  ☑️ #1 - Criar um trocador de cores. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/TrocadorCores"> Acessar➡️ </a> <br>
+  ☑️ #1 - Criar um trocador de cores. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores"> Acessar➡️ </a> <br>
 
 
 <h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
