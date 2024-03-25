@@ -7,9 +7,8 @@
 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 
 ## 📝 Lista de Projetos
-
-1. [Como criar um trocador de cores](github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores)
-2. [Como  criar um Contador](github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CriarContador)
+1. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores"> Como criar um trocador de cores </a>
+2. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CriarContador"> Como criar um Contador </a>
 
 
 <!--
