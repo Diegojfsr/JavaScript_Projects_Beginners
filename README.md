@@ -6,9 +6,15 @@
 # Esse é o meu repositório de JavaScript Projects Beginners
 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 
-<h2 dir="auto"> 📝 Lista de Projetos </h2>
-☑️ #1 - Criar um trocador de cores. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores"> Acessar➡️ </a> <br>
-☑️ #2 - Criar um Contador. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CriarContador"> Acessar➡️ </a> <br>
+## 📝 Lista de Projetos
+
+1. [Como criar um trocador de cores]("https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores")
+2. [Como  criar um Contador]("https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CriarContador")
+
+
+
+ - <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores"> #1 - Criar um trocador de cores </a>
+ - <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CriarContador"> #2 - Criar um Contador </a>
 
 
 
@@ -23,12 +29,12 @@ JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
  <li> JavaScript. </li> 
 
  <h2 dir="auto"> 📑 Referências </h2>
-  <p dir="auto">
-  A ideias para os projetos vieram deste artigo:<a href="https://lnkd.in/d8aKbMvW"> Acessar➡️ </a> <br>
-  </p>
 
-<h2 dir="auto"> 🤝 Contribuindo </h2>
-<p dir="auto">
+  A ideias para os projetos vieram deste artigo:<br>
+   <a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/"> 40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS </a>
+
+
+## 🤝 Contribuindo
  Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
