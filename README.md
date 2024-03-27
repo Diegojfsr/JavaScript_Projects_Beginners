@@ -17,6 +17,7 @@ JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 -->
 
 
+
 <h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
  <li> Noções de JavaScript. </li>
  <li> Desenvolvimento Responsivo. </li> 
