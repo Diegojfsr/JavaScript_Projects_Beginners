@@ -11,33 +11,30 @@ JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 2. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CriarContador"> Como criar um Contador </a>
 3. <a href="https://"> Como criar um carrossel de revisões </a>
 
+## ⚠️ Especificação e requisitos
 
-<!--
- - <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores"> #1 - Criar um trocador de cores </a>
- - <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CriarContador"> #2 - Criar um Contador </a>
--->
-
-
-
-<h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
- <li> Noções de JavaScript. </li>
- <li> Desenvolvimento Responsivo. </li> 
- <li> Noções básicas de Git/Github. </li> 
+- Noções de JavaScript
+- VS Code
+- Git/Github
+- Desenvolvimento Responsivo
 
 
-<h2 dir="auto"> 🛠 Tecnologias Utilizadas </h2>
- <li> VS Code. </li>
- <li> JavaScript. </li> 
+## 🛠 Tecnologias Utilizadas
+- VS Code.
+- JavaScript.
 
- <h2 dir="auto"> 📑 Referências </h2>
+
+## 📑 Referências Utilizadas
 
   A ideias para os projetos vieram deste artigo:<br>
    <a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/"> 40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS </a>
 
 
+
 ## 🤝 Contribuindo
- Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
+
+Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-</p>
+
 
 
