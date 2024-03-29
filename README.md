@@ -9,7 +9,7 @@ JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 ## 📝 Lista de Projetos
 1. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/TrocadorCores"> Como criar um trocador de cores </a>
 2. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CriarContador"> Como criar um Contador </a>
-3. <a href="https:"> Como criar um carrossel de revisões </a>
+3. <a href="https://github.com/Diegojfsr/JavaScript_Projects_Beginners/tree/main/Projetos/CarrosselReview"> Como criar um carrossel de revisões </a>
 
 ## ⚠️ Especificação e requisitos
 
