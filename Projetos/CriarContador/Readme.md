@@ -68,7 +68,7 @@ E as funções dos
 
 - [Larissa Kich](https://youtu.be/n-ujf4-rk3g)
 - [Coisa de Dev](https://youtu.be/tla-kxvHQvA)
-- [github.levxyca](https://github.com/levxyca/counter?tab=readme-ov-file)
+- [Levxyca-Github](https://github.com/levxyca/counter?tab=readme-ov-file)
 
 
 
