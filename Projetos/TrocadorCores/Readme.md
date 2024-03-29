@@ -32,22 +32,22 @@ Em seguida, concatenaremos esses valores em uma string e vamos aplica-la como co
 
 ## ⚠️ Especificação e requisitos
 
-- [Noções de JavaScript](https:)
-- [VS Code](https:)
-- [Git/Github](https:)
-- [Desenvolvimento Responsivo](https:)
+- Noções de JavaScript
+- VS Code
+- Git/Github
+- Desenvolvimento Responsivo
 
 
 ## 🛠 Tecnologias Utilizadas
 
-- [arrays](https://)
-- [document.getElementById()](https://)
-- [document.querySelector()](https://)
-- [addEventListener()](https://)
-- [document.body.style.backgroundColor](https://)
-- [Math.floor()](https://)
-- [Math.random()](https://)
-- [array.length](https://)
+- arrays
+- document.getElementById()
+- document.querySelector()
+- addEventListener()
+- document.body.style.backgroundColor
+- Math.floor()
+- Math.random()
+- array.length
  
 
 ## 📑 Referências Utilizadas
