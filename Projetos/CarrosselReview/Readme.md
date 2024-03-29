@@ -56,12 +56,12 @@ E as funções dos
 
 ## 🛠 Tecnologias Utilizadas
 
-- [Arrow functions](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [Expressões e operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators)
-- [document.getElementById()](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/getElementById)
-- [Node.textContent](https://developer.mozilla.org/pt-BR/docs/Web/API/Node/textContent)
-- [GlobalEventHandlers.onclick](https://developer.mozilla.org/pt-BR/docs/Web/API/GlobalEventHandlers/onclick)
-- [parseInt()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+- [Arrow functions](https:)
+- [Expressões e operadores](https:)
+- [document.getElementById()](https:)
+- [Node.textContent](https:)
+- [GlobalEventHandlers.onclick](https:)
+- [parseInt()](https:)
 
 
 ## 📑 Referências Utilizadas
