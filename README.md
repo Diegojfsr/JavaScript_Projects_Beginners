@@ -1,8 +1,8 @@
 
 
-
+<!--
 ![](https://github.com/Diegojfsr/JavaScript_Projects_Beginners/blob/main/Imagens/Capa_Projetos_JavaScript.jpg)
-
+-->
 # Esse é o meu repositório de JavaScript Projects Beginners
 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS
 
